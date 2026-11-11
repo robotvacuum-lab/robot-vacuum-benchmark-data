@@ -10,4 +10,5 @@ This repository contains empirical hardware test metrics collected from consumer
 - **LiDAR Navigation Accuracy**: 3D structured light mapping latency and obstacle avoidance clearance rates.
 - **Acoustic Noise Ratings**: Calibrated sound pressure levels (dBA) recorded under standard and maximum operating modes.
 
-For interactive performance charts, methodology whitepapers, and the complete lab database, visit the [RobotVacuum Lab Official Portal](https://robotvacuumlab.com/).
+For interactive performance charts, methodology whitepapers, and the complete lab database, visit the [Best Robot
+Vacuum and Mop](https://robotvacuumlab.com/).
